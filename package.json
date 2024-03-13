@@ -1,0 +1,12 @@
+{
+  "name": "npm-simple-renamed",
+  "version": "0.0.1",
+  "description": "Example node.js server ",
+  "scripts": {
+    "print-http-server-version": "serve -v",
+    "start": "serve public"
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
